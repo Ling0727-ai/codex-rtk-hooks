@@ -1,0 +1,12 @@
+{
+  "name": "codex-rtk-hooks",
+  "version": "1.0.0",
+  "description": "RTK shell command guidance through Codex PreToolUse hooks.",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json",
+  "interface": {
+    "displayName": "Codex RTK Hooks",
+    "shortDescription": "RTK command guidance for Codex",
+    "category": "Productivity"
+  }
+}
